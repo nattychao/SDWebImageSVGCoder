@@ -9,7 +9,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-static const SDImageFormat SDImageFormatSVG = 12;
+//static const SDImageFormat SDImageFormatSVG = 12;
 
 @interface SDImageSVGCoder : NSObject <SDImageCoder>
 
